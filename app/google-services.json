@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "404938509243",
+    "project_id": "kalorihesaplama-3d363",
+    "storage_bucket": "kalorihesaplama-3d363.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404938509243:android:a7fd35945741243713529e",
+        "android_client_info": {
+          "package_name": "com.example.kalorihesaplama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404938509243-no7u18pc26ndubh3ee2ppqosqa0noj4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcEmbmNpAM4XhSkldlo2ARQkDHOQ5bjUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404938509243-no7u18pc26ndubh3ee2ppqosqa0noj4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
